@@ -59,3 +59,15 @@ ___
 
 ![Hex Graph](https://raw.githubusercontent.com/apache/activemq/a608ae6caa23c9b0d38eb9cfabb3fbe2538cbd89/docs/img/hex-graph-text.png)
 
+
+***
+[Milap Bhojak, ActiveMQ Logo](https://github.com/apache/activemq/pull/253)
+
+(https://user-images.githubusercontent.com/5056619/27222332-756cc460-52a9-11e7-84ca-b9067a9e4526.png)
+
+(https://user-images.githubusercontent.com/5056619/27222333-759588d2-52a9-11e7-94df-ae0fd6875c43.png)
+
+(https://user-images.githubusercontent.com/5056619/27222523-2ccf33ea-52aa-11e7-94d3-85143bb238e2.png)
+
+(https://user-images.githubusercontent.com/5056619/27222334-75cd2c10-52a9-11e7-95eb-41cac706d22d.png)
+
